@@ -1,0 +1,1 @@
+#INDEFINE <ALL>
